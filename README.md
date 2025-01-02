@@ -29,6 +29,7 @@ Identifies high-performing locations, such as Orai and Deoghar, to inform geogra
 
 # Tools and Technologies:
 Power BI: For interactive visualizations and dashboard creation.
+
 Data Analytics: Leveraging historical sales and marketing data for actionable insights.
 
 # Use Cases:
