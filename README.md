@@ -2,7 +2,7 @@
 # Blinkit Marketing and Sales Dashboard
 
 ### [Dashboard Link]([https://app.powerbi.com/view?r=eyJrIjoiMDU1NDNkMmItZTc5MS00OWU5LTllZjMtZGM1YmU2YjE4MmE4IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=ReportSectioncddefe407c9a8ae69457](https://app.powerbi.com/view?r=eyJrIjoiMTg5YmU3NmItYjE3Ny00MzgzLWJiNGItYTcxMTEyM2RkNmRlIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=ReportSectioncddefe407c9a8ae69457)
-### [Dashboard Link]()
+
 This project presents an interactive Power BI dashboard designed to provide a comprehensive overview of the marketing and sales performance for Blinkit, India's "last-minute app." The dashboard delivers actionable insights through visually appealing charts and metrics, allowing stakeholders to evaluate the success of various campaigns, monitor revenue growth, and track customer engagement effectively.
 
 # Features:
